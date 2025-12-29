@@ -125,6 +125,11 @@ This project is intended for:
 - Educational articles and tutorials
 
 ---
+## Related Article (Japanese)
+
+This repository is used in the following article series:
+[https://independence-sys.net/main/?p=7363](*ROS2で「動かす」ために押さえておきたい考え方*)
+[https://independence-sys.net/main/?p=7363](*ROS2 仮想オドメトリをターミナルで理解する*)
 
 ## License
 
