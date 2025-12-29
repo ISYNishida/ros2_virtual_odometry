@@ -127,9 +127,9 @@ This project is intended for:
 ---
 ## Related Article (Japanese)
 
-This repository is used in the following article series:
-[https://independence-sys.net/main/?p=7363](*ROS2で「動かす」ために押さえておきたい考え方*)
-[https://independence-sys.net/main/?p=7363](*ROS2 仮想オドメトリをターミナルで理解する*)
+This repository is used in the following article series: <br/>
+[https://independence-sys.net/main/?p=7363](*ROS2で「動かす」ために押さえておきたい考え方*) <br/>
+[https://independence-sys.net/main/?p=7363](*ROS2 仮想オドメトリをターミナルで理解する*) <br/>
 
 ## License
 
